@@ -15,7 +15,7 @@ hello Lu, hello git
 hello Lu, hello git
 hello Lu, hello git
 hello Lu, hello git
-我是在hot-fix里面修改的
+我是在hot-fix里面修改的 master
 你好我是倒数第二行
 你好，我是最后一行
 这是最新数据master
