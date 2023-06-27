@@ -22,3 +22,4 @@ hello Lu, hello git
 33366666666666
 验证push操作
 ssh验证
+ssh验证 push操作 wiederholen
